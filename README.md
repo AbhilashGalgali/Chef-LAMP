@@ -1,5 +1,5 @@
-# Chef-LAMP
-Linux Distro: Ubuntu or Centos
-one VM as a Chef Server.
-The Chef-Server VM configured as the your Chef workstation
-The second VM is the chef-client
+# Chef LAMP Assignment
+
+Given Vagrant and Chef, create a Vagrant file which creates two virtual machines, and an Chef cookbook deploys functional LAMP stack on an Centos VM using Chef.
+
+Linux Distro: Centos
